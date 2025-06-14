@@ -52,8 +52,8 @@ def save_data(df: pd.DataFrame, data_path: str) -> None:
 def main():
     try:
         #bucket_name = "learnyard-proj1-bucket"
-        #aws_access_key = "AKIAQJW5YJZ264EB3KV5"
-        #aws_secret_key = "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"
+        #aws_access_key = ""
+        #aws_secret_key = ""
         #FILE_KEY = "creditcard.csv"  # Path inside S3 bucket
         
         #s3 = s3_connection.s3_operations(bucket_name, aws_access_key, aws_secret_key)
