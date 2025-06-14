@@ -89,3 +89,5 @@ venv
 # Mypy cache
 .mypy_cache/
 *.csv
+logs/
+local_s3/*
